@@ -1,0 +1,6 @@
+database dbname=crud2foreign
+sql crud2foreign.sql
+
+crud
+crud2foreign
+
